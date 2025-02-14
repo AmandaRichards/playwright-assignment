@@ -65,5 +65,3 @@ test(`Holiday Entitlement for someone starting and leaving part way through a le
       const resultsPage: ResultsPage = new ResultsPage();
       await resultsPage.checkJourney2PageLoads(page);
 });
-
-//workoutholidaypage title is different depending on the journey
